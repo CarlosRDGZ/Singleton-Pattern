@@ -1,2 +1,2 @@
 # Singleton-Pattern
-# ::shit::
+# ::shit:: = Java
